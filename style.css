@@ -1,0 +1,20 @@
+#row {
+   margin-top: 20px;
+}
+
+.col-md-4 {
+   margin-top: 10px; 
+}
+.col-md-4 input {
+   height: 35px;
+   border-radius: 4px;
+   border: 1px solid black;
+}
+.btn {
+   margin-top: 30px;
+}
+#inner {
+   font-size: 25px;
+   margin-top: 10px;
+   text-align: left;
+}
